@@ -1,0 +1,52 @@
+{
+    "datas": [
+        {
+            "id": 0,
+            "image": "image-1.png",
+            "name": "Spead Collar Shirt",
+            "price": "$48.99 | 5.0"
+        },
+        {
+            "id": 1,
+            "image": "image-2.png",
+            "name": "White Solid Formal Shirt",
+            "price": "$39.00 | 4.9"
+        },
+        {
+            "id": 2,
+            "image": "image-3.png",
+            "name": "Shine On Me Blouse",
+            "price": "42.99 | 4.8"
+        },
+        {
+            "id": 3,
+            "image": "image-4.png",
+            "name": "Gray Solid Padded Jackey",
+            "price": "$32.99 | 4.7"
+        },
+        {
+            "id": 4,
+            "image": "image-5.png",
+            "name": "Printed Loose T-shirt",
+            "price": "39.99 | 5.0"
+        },
+        {
+            "id": 5,
+            "image": "image-6.png",
+            "name": "Summer Wind Crop Shirt",
+            "price": "39.95 | 4.7"
+        },
+        {
+            "id": 6,
+            "image": "image-7.png",
+            "name": "Tailored Jacket",
+            "price": "46.00 | 4.9"
+        },
+        {
+            "id": 7,
+            "image": "image-8.png",
+            "name": "Solid Round Neck T-shirt",
+            "price": "$36.00 | 5.0"
+        }
+    ]
+}
